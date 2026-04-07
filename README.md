@@ -1,3 +1,6 @@
+<p align="center"><a href="https://twinworks.dev/users/coayo/"><img width="80%" alt="Hello! I'm coayo, I do stuff like coding 😛" src="./image/gh-readme-header.png" /></a></p>
+
+
 # 💫 About Me:
 🧑‍💻 I'm currently working on Web development projects and small automation tools<br>🤝 I'm looking to collaborate on Web apps, creative tech ideas, or anything actually useful<br>🆘 I'm looking for help with Improving performance and writing cleaner, better code<br>🌱 I'm currently learning Cybersecurity, JavaScript, and software development<br>💬 Ask me about Web development, problem solving, or tech in general<br>⚡ Fun fact: I like building things that actually work, not just look good
 
