@@ -1,4 +1,4 @@
-<p align="center"><a href="https://twinworks.dev/users/coayo/"><img width="80%" alt="Hello! I'm coayo, I do stuff like coding 😛" src="./image/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://twinworks.dev/users/coayo/"><img width="50%" highet="80%"alt="Hello! I'm coayo, I do stuff like coding 😛" src="./image/gh-readme-header.png" /></a></p>
 
 
 # 💫 About Me:
