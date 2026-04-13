@@ -5,7 +5,7 @@
 🧑‍💻 I'm currently working on Web development projects and small automation tools<br>🤝 I'm looking to collaborate on Web apps, creative tech ideas, or anything actually useful<br>🆘 I'm looking for help with Improving performance and writing cleaner, better code<br>🌱 I'm currently learning Cybersecurity, JavaScript, and software development<br>💬 Ask me about Web development, problem solving, or tech in general<br>⚡ Fun fact: I like building things that actually work, not just look good
 
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 ## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,6 +94,27 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coayo-x&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coayo-x&theme=github_dark" />
+</p>
+
+---
+
+# 🤝 Let’s Connect
+<p align="center">
+  <a href="https://twinworks.dev/users/coayo/">
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:dontemailme@coayo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/coayo-x">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./image/quote.png" />
 </p>
 
 ---
