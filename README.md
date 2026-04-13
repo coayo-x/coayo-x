@@ -40,7 +40,7 @@
 ## 🧠 Systems & Security
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1F2937?style=for-the-badge&logo=cisco&logoColor=white)
 ![Security](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
@@ -69,7 +69,6 @@
 
 ## 🧠 Other / Side Stuff
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![Cisco](https://img.shields.io/badge/Cisco-1F2937?style=for-the-badge&logo=cisco&logoColor=white)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![TOR](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
