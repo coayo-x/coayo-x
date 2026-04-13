@@ -80,11 +80,21 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-flame-pi-56.vercel.app/api?username=coayo-x&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats-flame-pi-56.vercel.app/api/top-langs/?username=coayo-x&layout=compact&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-flame-pi-56.vercel.app/api?username=coayo-x&show_icons=true&theme=dark&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-flame-pi-56.vercel.app/api/top-langs/?username=coayo-x&layout=compact&theme=dark&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
@@ -94,7 +104,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coayo-x&theme=github-dark&hide_border=true" />
 </p>
 
----
+<!-- ---
 
 # 📌 Profile Summary
 <p align="center">
@@ -109,7 +119,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coayo-x&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coayo-x&theme=github_dark" />
-</p>
+</p> -->
 
 ---
 
