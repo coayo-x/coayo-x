@@ -84,18 +84,16 @@
     src="https://github-readme-stats-flame-pi-56.vercel.app/api?username=coayo-x&show_icons=true&theme=dark&hide_border=true"
     width="48%"
   />
-
   <img 
-    src="https://github-readme-stats-flame-pi-56.vercel.app/api/top-langs/?username=coayo-x&layout=compact&theme=dark&hide_border=true"
-    width="50%"
+    src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
+    width="48%"
   />
-
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
-    width="48%"
+    src="https://github-readme-stats-flame-pi-56.vercel.app/api/top-langs/?username=coayo-x&layout=compact&theme=dark&hide_border=true"
+    width="50%"
   />
 </p>
 
