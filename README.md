@@ -2,8 +2,14 @@
 
 
 # 💫 About Me:
-🧑‍💻 I'm currently working on Web development projects and small automation tools<br>🤝 I'm looking to collaborate on Web apps, creative tech ideas, or anything actually useful<br>🆘 I'm looking for help with Improving performance and writing cleaner, better code<br>🌱 I'm currently learning Cybersecurity, JavaScript, and software development<br>💬 Ask me about Web development, problem solving, or tech in general<br>⚡ Fun fact: I like building things that actually work, not just look good
+🧑‍💻 I build web apps and random tools that solve real problems  
+🧠 I care more about performance and clean code than fancy UI  
+🤝 Open to working on useful ideas, not just “cool projects”  
+🌱 Learning cybersecurity and going deeper into JavaScript  
+💬 Ask me about building stuff, debugging, or breaking things  
+⚡ I prefer things that work over things that just look good
 
+---
 
 # 💻 Tech Stack:
 
