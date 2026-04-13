@@ -82,10 +82,12 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-flame-pi-56.vercel.app/api?username=coayo-x&show_icons=true&theme=dark&hide_border=true"
+    width="48%",
     height="190"
   />
   <img 
     src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
+    width="48%",
     height="190"
   />
 </p>
