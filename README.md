@@ -5,8 +5,61 @@
 🧑‍💻 I'm currently working on Web development projects and small automation tools<br>🤝 I'm looking to collaborate on Web apps, creative tech ideas, or anything actually useful<br>🆘 I'm looking for help with Improving performance and writing cleaner, better code<br>🌱 I'm currently learning Cybersecurity, JavaScript, and software development<br>💬 Ask me about Web development, problem solving, or tech in general<br>⚡ Fun fact: I like building things that actually work, not just look good
 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+# 💻 Tech Stack
+
+## 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite)
+
+---
+
+## ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/express-404d59?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+---
+
+## 🗄️ Database & ORM
+![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma)
+
+---
+
+## ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+
+---
+
+## ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
+![PNPM](https://img.shields.io/badge/pnpm-4a4a4a?style=for-the-badge&logo=pnpm)
+
+---
+
+## 🎨 Design
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## 🧠 Other / Side Stuff
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![Cisco](https://img.shields.io/badge/cisco-049fd9?style=for-the-badge&logo=cisco)
+![Pi-Hole](https://img.shields.io/badge/pihole-96060C?style=for-the-badge&logo=pi-hole)
+![Raspberry Pi](https://img.shields.io/badge/raspberrypi-C51A4A?style=for-the-badge&logo=raspberry-pi)
+![TOR](https://img.shields.io/badge/tor-7E4798?style=for-the-badge&logo=tor-project)
+![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown)
 
 ---
 
