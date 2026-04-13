@@ -114,7 +114,11 @@
 ---
 
 <p align="center">
-  <img src="./image/quote.png" />
+  <img 
+    src="./image/quote.png" 
+    alt="Nothing changes if nothing changes"
+    width="450"
+  />
 </p>
 
 ---
