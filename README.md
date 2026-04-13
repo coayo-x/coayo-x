@@ -92,7 +92,7 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats-flame-pi-56.vercel.app/api/top-langs/?username=coayo-x&layout=compact&theme=dark&hide_border=true"
     width="50%"
@@ -104,7 +104,7 @@
 # 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coayo-x&theme=github-dark&hide_border=true" />
-</p>
+</p> -->
 
 <!-- ---
 
