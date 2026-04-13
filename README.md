@@ -2,70 +2,79 @@
 
 
 # 💫 About Me:
-🧑‍💻 I build web apps and random tools that solve real problems  
-🧠 I care more about performance and clean code than fancy UI  
-🤝 Open to working on useful ideas, not just “cool projects”  
-🌱 Learning cybersecurity and going deeper into JavaScript  
-💬 Ask me about building stuff, debugging, or breaking things  
-⚡ I prefer things that work over things that just look good
+🧑‍💻 I build systems, web apps, and tools that solve real problems  
+🧠 I focus on performance, simplicity, and things that don’t break  
+⚙️ I work close to the system ↽⇁ servers, networking, and optimization  
+🤝 I build useful things, not just “cool projects”  
+💬 Ask me about debugging, building, or breaking things on purpose  
+⚡ If it looks good but doesn’t work, it’s useless
 
 ---
 
 # 💻 Tech Stack:
 
 ## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-333?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express-404d59?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🗄️ Database & ORM
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## 🧠 Systems & Security
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
 
 ## ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
 ## ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
-![PNPM](https://img.shields.io/badge/pnpm-4a4a4a?style=for-the-badge&logo=pnpm)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=black)
 
 ---
 
 ## 🎨 Design
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 🧠 Other / Side Stuff
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
-![Cisco](https://img.shields.io/badge/cisco-049fd9?style=for-the-badge&logo=cisco)
-![Pi-Hole](https://img.shields.io/badge/pihole-96060C?style=for-the-badge&logo=pi-hole)
-![Raspberry Pi](https://img.shields.io/badge/raspberrypi-C51A4A?style=for-the-badge&logo=raspberry-pi)
-![TOR](https://img.shields.io/badge/tor-7E4798?style=for-the-badge&logo=tor-project)
-![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![Cisco](https://img.shields.io/badge/Cisco-1F2937?style=for-the-badge&logo=cisco&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![TOR](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Networking Labs](https://img.shields.io/badge/Networking_Labs-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
