@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/coayo-x">
+  <a href="https://coayo.com">
     <img src="./images/smiley-wave.gif" width="200px"/>
   </a>
   <a href="https://github.com/coayo-x">
@@ -122,7 +122,7 @@
 
 # <div><img src="./images/Handshake.png" alt="Handshake Emoji" width="30px" height="30px" align="center"/> Let’s Connect</div>
 <p align="center">
-  <a href="https://twinworks.dev/users/coayo/">
+  <a href="https://coayo.com">
     <img src="https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:dontemailme@coayo.com">
