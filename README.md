@@ -73,7 +73,7 @@
 
 ---
 
-# <div><img src="./images/developer character.png" alt="Bar Chart Emoji" width="30px" height="30px" align="center"/> Coding Activity</div>
+# <div><img src="./images/computer_guy.gif" alt="Bar Chart Emoji" width="30px" height="30px" align="center"/> Coding Activity</div>
 <p align="center">
   <img 
       src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
