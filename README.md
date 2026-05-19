@@ -119,13 +119,15 @@
 # <div><img src="./images/Handshake.png" alt="Handshake Emoji" width="30px" height="30px" align="center"/> Let’s Connect</div>
 <p align="center">
   <a href="https://coayo.com">
-    <img src="https://img.shields.io/badge/Website-000?style=flat&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+
   <a href="mailto:dontemailme@coayo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/coayo-x">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -135,8 +137,17 @@
   <img 
     src="./images/quote.png" 
     alt="Nothing changes if nothing changes"
-    width="450"
+    width="56%"
   />
 </p>
+
+  
+---
+
+  <img 
+    src="./images/footer.gif" 
+    width="100%"
+    height="200"
+  />
 
 ---
