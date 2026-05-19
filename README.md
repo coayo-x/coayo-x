@@ -73,17 +73,13 @@
 
 ---
 
-# <div><img src="./images/Bar Chart.png" alt="Bar Chart Emoji" width="30px" height="30px" align="center"/> GitHub Stats</div>
+# <div><img src="./images/developer character.png" alt="Bar Chart Emoji" width="30px" height="30px" align="center"/> GitHub Stats</div>
 <p align="center">
   <img 
-    src="https://github-readme-stats-flame-pi-56.vercel.app/api?username=coayo-x&show_icons=true&theme=dark&hide_border=true"
-    width="49%"
-    height="190"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
-    width="49%"
-    height="190"
+      src="https://streak-stats.demolab.com?user=coayo-x&theme=dark&hide_border=true"
+      alt="GitHub contribution streak stats"
+      width="100%"
+      height="190"
   />
 </p>
 
