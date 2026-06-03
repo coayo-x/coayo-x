@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>🛠️ DevOps & Tools</td>
-    <td><img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> <img src="https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=black" alt="PNPM"/></td>
+    <td><img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM"/> <img src="https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=black" alt="PNPM"/> <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim"/></td>
   </tr>
   <tr>
     <td>🎨 Design</td>
