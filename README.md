@@ -39,7 +39,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
       <img src="https://img.shields.io/badge/Astro-000000?style=flat&logo=astro&logoColor=white" alt="Astro"/>
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/> &nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/> 
     </td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>🧩 Other / Side Stuff</td>
-    <td><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=yellow" alt="Python"/> <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white" alt="Pi-hole"/> <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/> <img src="https://img.shields.io/badge/Tor-7E4798?style=flat&logo=tor-project&logoColor=white" alt="TOR"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/> <img src="https://img.shields.io/badge/Networking_Labs-0A66C2?style=flat&logo=cisco&logoColor=white" alt="Networking Labs"/></td>
+    <td><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=yellow" alt="Python"/> <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pi-hole&logoColor=white" alt="Pi-hole"/> <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/> <img src="https://img.shields.io/badge/Tor-7E4798?style=flat&logo=tor-project&logoColor=white" alt="TOR"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown"/> <img src="https://img.shields.io/badge/Networking_Labs-0A66C2?style=flat&logo=cisco&logoColor=white" alt="Networking Labs"/> <img src="https://img.shields.io/badge/ASCII%20Binary-by%20hand-00ff00?style=flat&logo=hackthebox&logoColor=00ff00&labelColor=000000" alt="ASCII Binary"/></td>
   </tr>
 </table>
 
@@ -83,6 +83,7 @@
       height="190"
   />
 </p>
+
 
 <!-- <p align="center">
   <img 
