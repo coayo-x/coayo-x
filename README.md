@@ -14,7 +14,7 @@
 - <img src="./images/Gear.png" width="20px"/> I work close to the system, servers, networking, and optimization
 - <img src="./images/Handshake.png" width="20px"/> I build useful things, not just “cool projects“
 - <img src="./images/Speech Balloon.png" width="20px"/> Ask me about debugging, building, or breaking things on purpose
-- <img src="./images/High Voltage.png" width="23px"/> If it looks good but doesn’t work, it’s useless
+- <img src="./images/High Voltage.png" width="23px"/>If it looks good but doesn’t work, it’s useless
 - <img src="/images/Robot.png" width="20px"/> Fun fact: I can read and write ASCII binary by hand
 
 <!-- <br clear=”left”/> -->
