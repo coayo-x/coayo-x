@@ -9,13 +9,13 @@
 
 # <img src="./images/Dizzy.png" width="30px"/> About Me
 
-- <img src="./images/Technologist.png" width="20px"/> I build systems, web apps, and tools that solve real problems<img src="\images\pc.gif" width="210px" align="right"/>
-- <img src="./images/Brain.png" width="20px"/> I focus on performance, simplicity, and things that don’t break 
-- <img src="./images/Gear.png" width="20px"/> I work close to the system, servers, networking, and optimization
-- <img src="./images/Handshake.png" width="20px"/> I build useful things, not just “cool projects“
-- <img src="./images/Speech Balloon.png" width="19px"/> Ask me about debugging, building, or breaking things on purpose
-- <img src="./images/High Voltage.png" width="23px"/>If it looks good but doesn’t work, it’s useless
-- <img src="/images/Robot.png" width="20px"/> Fun fact: I can read and write ASCII binary by hand
+- <img src="./images/Technologist.png" width="20px"/> **I build systems, web apps, and tools that solve real problems**<img src="\images\pc.gif" width="210px" align="right"/>
+- <img src="./images/Brain.png" width="20px"/> **I focus on performance, simplicity, and things that don’t break**
+- <img src="./images/Gear.png" width="20px"/> **I work close to the system, servers, networking, and optimization**
+- <img src="./images/Handshake.png" width="20px"/> **I build useful things, not just “cool projects“**
+- <img src="./images/Speech Balloon.png" width="19px"/> **Ask me about debugging, building, or breaking things on purpose**
+- <img src="./images/High Voltage.png" width="23px"/>**If it looks good but doesn’t work, it’s useless**
+- <img src="/images/Robot.png" width="20px"/> **Fun fact: I can read and write ASCII binary by hand**
 
 <!-- <br clear=”left”/> -->
 
